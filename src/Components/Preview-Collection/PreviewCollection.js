@@ -16,5 +16,3 @@ const PreviewCollection = ({ title, items }) => {
 };
 
 export default PreviewCollection;
-
-asdf asdf
